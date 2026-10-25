@@ -6,7 +6,7 @@ namespace DefaultPublisher.Hopverkefniproject2;
 
 using Microsoft.Sales.Customer;
 
-pageextension 50100 CustomerListExt extends "Customer List"
+pageextension 50150 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
     begin

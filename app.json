@@ -1,5 +1,5 @@
 {
-  "id": "18aab669-1512-4894-8622-74ea5140e1fa",
+  "id": "876f1a5e-821a-49ed-8535-918999eeb4cb",
   "name": "IERP-Hópverkefni",
   "publisher": "Hópur 10",
   "version": "1.0.0.0",
@@ -16,8 +16,8 @@
   "application": "29.0.0.0",
   "idRanges": [
     {
-      "from": 50100,
-      "to": 50149
+      "from": 50150,
+      "to": 50200
     }
   ],
   "resourceExposurePolicy": {
