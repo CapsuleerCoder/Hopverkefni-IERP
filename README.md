@@ -1,2 +1,2 @@
 # Hopverkefni-IERP
-Hopverkefni fyrir IERP, eva og óli 
+Hopverkefni fyrir IERP
