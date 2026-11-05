@@ -1,12 +1,5 @@
-# AL Specific
 .alpackages/
 *.app
-
-# Snapshot Debugging
 .snapshots/
-
-# Rapid Application Development (RAD)
 .vscode/rad.json
-
-# Personal Configurations
 .vscode/launch.json
